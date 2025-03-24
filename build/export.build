@@ -1,0 +1,6 @@
+$out_root/
+{
+  include art/unicode/
+}
+
+export $out_root/art/unicode/$import.target
